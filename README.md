@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnkurBrahma
+- 👋 Hi, I’m @AnkurBrahma and I am currently studying in Assam Down Town University
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C++ and Flutter
 - 💞️ I’m looking to collaborate on any projects
